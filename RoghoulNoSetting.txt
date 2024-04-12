@@ -29,7 +29,7 @@ local myData = loadstring(game:HttpGet("https://raw.githubusercontent.com/z4gs/s
     },
     Boss = {
         ["Gyakusatsu"] = false,
-        ["Eto Yoshimura"] = false,
+        ["Eto Yoshimura"] = true,
         ["Koutarou Amon"] = true,
         ["Nishiki Nishio"] = true,
         ["Touka Kirishima"] = true
